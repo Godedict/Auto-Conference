@@ -27,7 +27,7 @@
 
 # 📖 LuxuryAuto <a name="about-project"></a>
 
-**LuxuryAuto** is a website about the trade fair that is held annually with the same name.
+**LuxuryAuto** is a website about the trade fair that is held annually with the same name. It was implemented with the aim of learning and practicing the use of HTML, CSS and JavaScript. The project was created keeping in mind the love and festivities in the automobile world. The website is fully responsive and works on all devices. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
