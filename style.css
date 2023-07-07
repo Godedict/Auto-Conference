@@ -17,8 +17,15 @@ body {
 }
 
 #menuOpen {
-  padding: 1rem;
+  padding: 1.5rem;
   cursor: pointer;
+  background-color: rgb(202, 201, 201);
+  background-image: url(./Assets/mobileShapes.jpg);
+  width: 100vw;
+  background-blend-mode: overlay;
+  background-position-x: 15%;
+  background-position-y: 1%;
+  object-fit: scale-down;
 }
 
 .fa-bars {
@@ -31,9 +38,7 @@ body {
 }
 
 .dropDown {
-  padding-left: 1rem;
-  background-image: url(./Assets/mobileShapes.jpg);
-  background-color: rgb(197, 195, 195);
+  position: fixed;
   background-blend-mode: overlay;
   background-position-x: 15%;
   background-position-y: 1%;
@@ -42,7 +47,12 @@ body {
 #menuList {
   display: none;
   list-style: none;
-  padding: 0%;
+  padding-left: 5%;
+  background-image: url(./Assets/mobileShapes.jpg);
+  background-color: rgb(197, 195, 195);
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
 }
 
 #menuList a {
@@ -65,7 +75,11 @@ body {
 #hello {
   color: #ec5242;
   font-weight: 400;
-  margin: 0 0 2% 0;
+  margin: 15% 0 2% 0;
+}
+
+.deskhello {
+  padding-top: 10%;
 }
 
 #autoFest {
@@ -629,18 +643,8 @@ footer {
 
   .dropDown {
     display: flex;
-    background-color: #fff;
-  }
-
-  .mlogo1 {
-    display: block;
-    text-decoration: none;
-    font-size: 40px;
-    font-weight: 900;
-    color: #742820;
-    cursor: pointer;
-    margin-left: 80px;
-    align-self: center;
+    width: 100%;
+    position: relative;
   }
 
   #menuOpen {
@@ -650,16 +654,38 @@ footer {
   #menuList {
     display: flex;
     flex-direction: row;
-    justify-content: end;
     gap: 2%;
     align-items: center;
     list-style: none;
     padding: 0%;
     margin: 0%;
     width: 100%;
+    height: 20%;
+    background-color: #fff;
+    background-image: none;
+  }
+
+  .droplist {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    gap: 2%;
+    align-items: center;
+  }
+
+  #menuList .mlogo1 {
+    display: block;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 900;
+    color: #742820;
+    cursor: pointer;
+    margin-left: 2%;
+    align-self: center;
   }
 
   #menuList a {
+    display: flex;
     font-size: 1.2rem;
     color: #272a31;
   }
@@ -723,12 +749,13 @@ footer {
     display: flex;
     gap: 3px;
     width: 90%;
+    flex-wrap: wrap;
   }
 
   .programs {
     flex-direction: column;
-    width: 20%;
-    padding: 0;
+    padding: 2%;
+    max-width: 30%;
   }
 
   .programIcon {
@@ -781,7 +808,7 @@ footer {
   }
 
   .guestDesc {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 
   .moreButton {
@@ -820,8 +847,16 @@ footer {
     display: flex;
     width: 100%;
     margin: 0;
-    flex-wrap: nowrap;
-    gap: 0%;
+    gap: 5%;
+    flex-wrap: wrap;
+    padding: 0% 0% 2% 0%;
+  }
+
+  #sponsorList li {
+    display: flex;
+    justify-content: space-evenly;
+    width: 15%;
+    margin: 0;
     padding: 0;
   }
 
@@ -920,10 +955,6 @@ footer {
     flex-direction: row;
     width: 70%;
     gap: 3%;
-  }
-
-  .sponsor {
-    display: none;
   }
 
   #aboutFooter {

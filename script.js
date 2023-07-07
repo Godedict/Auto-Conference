@@ -54,7 +54,7 @@ const specialGuests = [
     Id: 3,
     name: 'Stephan Winkelmann',
     title: 'CEO of Lamborghini Automobili S.p.A',
-    photo: './Assets/presenter3.png',
+    photo: './Assets/presenter3.jpg',
     info: 'He is a German manager and has been President of Lamborghini S.p.A. since December 1, 2020.',
   },
   {

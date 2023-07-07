@@ -53,7 +53,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Link to Quick Overview of LuxuryAuto](https://www.loom.com/share/eed1da6a0bf8431bbcf2ce28a67c55d0?sid=3a2243fe-6b94-4b21-8bcf-e57b2860e2f7)
-- [Live link to Gamecon](https://godedict.github.io/Auto-Conference/)
+- [Live link to LuxuryAuto](https://godedict.github.io/Auto-Conference/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
