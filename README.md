@@ -52,8 +52,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Link to Quick Overview of Gamecon]()
-- [Live link to Gamecon](https://godedict.github.io/Gamecon/)
+- [Link to Quick Overview of LuxuryAuto](https://www.loom.com/share/eed1da6a0bf8431bbcf2ce28a67c55d0?sid=3a2243fe-6b94-4b21-8bcf-e57b2860e2f7)
+- [Live link to Gamecon](https://godedict.github.io/Auto-Conference/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,9 +94,9 @@ You can deploy this project using:
 
 👤 **Aderounmu Adeniyi**
 
-- GitHub: [@SnakyMz](https://github.com/godedict)
-- Twitter: [@SobanSyeed](https://twitter.com/lokkiofasgard)
-- LinkedIn: [Soban Syeed](https://www.linkedin.com/in/Adeniyi-Aderounmu/)
+- GitHub: [@Godedict](https://github.com/godedict)
+- Twitter: [@Aderounmu](https://twitter.com/lokkiofasgard)
+- LinkedIn: [Aderounmu Adeniyi](https://www.linkedin.com/in/Adeniyi-Aderounmu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
