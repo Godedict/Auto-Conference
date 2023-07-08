@@ -329,7 +329,6 @@ body {
 .sponsors img {
   width: 60px;
   padding: 10px;
-  
 }
 
 #toyota img {
@@ -831,6 +830,10 @@ footer {
   .sponsors {
     width: 15%;
     margin-bottom: 3%;
+  }
+
+  #desktopSponsor {
+    display: none;
   }
 
   #toyota img {
