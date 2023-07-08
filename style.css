@@ -329,7 +329,7 @@ body {
 .sponsors img {
   width: 60px;
   padding: 10px;
-  filter: invert(40%);
+  
 }
 
 #toyota img {
@@ -486,7 +486,7 @@ footer {
   align-items: center;
   width: 80%;
   margin: 2% 0%;
-  background-color: #ae2e0b;
+  background-color: #c4340c;
   background-blend-mode: overlay;
   cursor: pointer;
 }
@@ -496,7 +496,6 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: opacity(0.8);
 }
 
 #f22 {
@@ -504,7 +503,6 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: opacity(0.8);
 }
 
 .previousYear {
